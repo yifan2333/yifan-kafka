@@ -19,6 +19,12 @@
         <java.version>1.8</java.version>
     </properties>
 
+    <modules>
+        <module>yifan-kafka-consumer-a</module>
+        <module>yifan-kafka-consumer-b</module>
+        <module>yifan-kafka-producer</module>
+    </modules>
+
     <build>
         <plugins>
             <plugin>
